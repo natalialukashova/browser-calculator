@@ -1,4 +1,4 @@
 # browser-calculator
-### Teaching project: browser calculator
+### Study project: browser calculator
 ***
  
